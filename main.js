@@ -1,1 +1,6 @@
-console.log("Hello, World");
+
+
+
+document.write(document.cookie);
+
+document.write(document.location.search);
